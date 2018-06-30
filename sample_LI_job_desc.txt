@@ -1,0 +1,4 @@
++ Natural language processing to build coherent corpuses for web content channels. Use TF-IDF, WordVec, DocVec, NMF for topic modeling. Launched www.goneoutdoors.com
++ Use Common Crawl data to gather and analyze competitor content.
++ Use SQL (PostgreSQL on AWS Redshift) to gather and analyze traffic data data, and NoSQL (MongoDB) to access and analyze our web content.
++ Use Python extensively including numpy, sklearn, pandas, matplotlib and more.
